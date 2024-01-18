@@ -12,3 +12,7 @@ R-Reload
 F/T-Slow Time!
 
 WARNING! The sound effects might be quite loud! Sorry!
+
+运行目录结构
+![Snipaste_2024-01-18_21-38-25](https://github.com/chenxqiyu/Retro-Shooter-Game/assets/10222853/a8de6eae-bced-4407-aca3-1c677549ca3b)
+![Snipaste_2024-01-18_21-41-30](https://github.com/chenxqiyu/Retro-Shooter-Game/assets/10222853/7393abde-b44e-47c8-b664-432a5118f76a)
